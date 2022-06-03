@@ -1,0 +1,190 @@
+{
+    "last_updated": "2021-12-20T16:25:39.000-04:00",
+    "substatus": null,
+    "date_created": "2021-12-18T11:37:55.000-04:00",
+    "origin": {
+        "shipping_address": {
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "address_line": "XXXXXXX",
+            "types": [
+                "shipping"
+            ],
+            "agency": {
+                "carrier_id": null,
+                "phone": null,
+                "agency_id": null,
+                "description": null,
+                "type": null,
+                "open_hours": null
+            },
+            "city": {
+                "id": "TUxBQkxBQjk1ODJa",
+                "name": "La Boca"
+            },
+            "geolocation_type": "RANGE_INTERPOLATED",
+            "latitude": 0,
+            "address_id": 1123039032,
+            "municipality": {
+                "id": null,
+                "name": null
+            },
+            "location_id": null,
+            "street_name": "XXXXXXX",
+            "zip_code": "XXXXXXX",
+            "geolocation_source": "google-maps",
+            "intersection": null,
+            "street_number": "XXXXXXX",
+            "comment": "XXXXXXX",
+            "state": {
+                "id": "AR-C",
+                "name": "Capital Federal"
+            },
+            "neighborhood": {
+                "id": null,
+                "name": null
+            },
+            "geolocation_last_updated": "2021-05-01T07:20:09Z",
+            "longitude": 0
+        },
+        "type": "selling_address",
+        "sender_id": 519257728
+    },
+    "destination": {
+        "comments": null,
+        "receiver_id": 49869710,
+        "receiver_name": "MARIANO PALUMBO",
+        "shipping_address": {
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "address_line": "Estanzuela Del Rey 139",
+            "types": [
+                "billing",
+                "default_selling_address",
+                "shipping"
+            ],
+            "agency": {
+                "carrier_id": null,
+                "phone": null,
+                "agency_id": null,
+                "description": null,
+                "type": null,
+                "open_hours": null
+            },
+            "city": {
+                "id": null,
+                "name": "Banfield"
+            },
+            "geolocation_type": "ROOFTOP",
+            "latitude": -34.73419,
+            "address_id": 161817758,
+            "municipality": {
+                "id": null,
+                "name": null
+            },
+            "location_id": null,
+            "street_name": "Estanzuela Del Rey",
+            "zip_code": "1828",
+            "geolocation_source": "google-maps",
+            "delivery_preference": "residential",
+            "intersection": null,
+            "street_number": "139",
+            "comment": "Referencia: TIMBRE02 .Hay Problemas De Doble Numeracion. Guiarse Por Entrecalles (ana Acerboni Y Guidi De Franc)",
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "neighborhood": {
+                "id": null,
+                "name": null
+            },
+            "geolocation_last_updated": "2021-12-18T15:37:56Z",
+            "longitude": -58.420863
+        },
+        "type": "buying_address",
+        "receiver_phone": "XXXXXXX"
+    },
+    "source": {
+        "site_id": "MLA",
+        "market_place": "MELI",
+        "application_id": null
+    },
+    "tags": [
+        "from_kvs"
+    ],
+    "declared_value": 1750,
+    "logistic": {
+        "mode": "me2",
+        "type": "self_service",
+        "direction": "forward"
+    },
+    "lead_time": {
+        "cost": 599.99,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "cost_type": "charged",
+        "estimated_delivery_final": {
+            "date": "2022-01-19T00:00:00.000-03:00",
+            "offset": 480
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 599.99,
+        "estimated_delivery_limit": {
+            "date": "2021-12-23T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "delivery_promise": null,
+        "shipping_method": {
+            "name": "Rápido a domicilio",
+            "deliver_to": "address",
+            "id": 506445,
+            "type": "super_express"
+        },
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2021-12-20T00:00:00.000-03:00"
+        },
+        "service_id": 234518,
+        "estimated_delivery_time": {
+            "date": "2021-12-20T00:00:00.000-03:00",
+            "pay_before": "2021-12-19T00:00:00.000-03:00",
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": null,
+                "shipping": null
+            },
+            "shipping": 0,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 0,
+            "type": "known"
+        },
+        "option_id": 1999005217,
+        "estimated_delivery_extended": {
+            "date": "2021-12-23T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "external_reference": null,
+    "tracking_number": "41057274222",
+    "id": 41057274222,
+    "tracking_method": "MAUMAU OBJETOS2 Super Express",
+    "status": "delivered",
+    "dimensions": {
+        "height": 11,
+        "width": 13,
+        "length": 19,
+        "weight": 450
+    }
+}

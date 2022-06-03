@@ -1,0 +1,201 @@
+{
+    "substatus_history": [
+        {
+            "date": "2019-11-15T14:02:00.000-04:00",
+            "substatus": "waiting_for_withdrawal",
+            "status": "shipped"
+        }
+    ],
+    "receiver_id": 49869710,
+    "base_cost": 197.99,
+    "status_history": {
+        "date_shipped": "2019-11-14T17:50:21.000-04:00",
+        "date_returned": null,
+        "date_delivered": "2019-11-21T10:45:53.000-04:00",
+        "date_first_visit": "2019-11-15T14:02:00.000-04:00",
+        "date_not_delivered": null,
+        "date_cancelled": null,
+        "date_handling": "2019-11-13T22:29:25.000-04:00",
+        "date_ready_to_ship": "2019-11-13T22:29:26.000-04:00"
+    },
+    "type": "forward",
+    "return_details": null,
+    "sender_id": 31032610,
+    "mode": "me2",
+    "order_cost": 4699,
+    "service_id": 431,
+    "shipping_items": [
+        {
+            "quantity": 1,
+            "dimensions_source": {
+                "origin": "mp2v_similarity",
+                "id": "mp2v_similarity_MLA821978853"
+            },
+            "description": "Perfume Miss Dior Eau De Toilette X 100ml Orig. En 6 Cuotas",
+            "id": "MLA821978853",
+            "dimensions": "10.0x10.0x14.0,470.0"
+        }
+    ],
+    "tracking_number": "1627677565EXE32501",
+    "cost_components": {
+        "loyal_discount": 0,
+        "special_discount": 0,
+        "compensation": 0,
+        "gap_discount": 0,
+        "ratio": 140.99
+    },
+    "id": 28157849814,
+    "tracking_method": "Estándar",
+    "last_updated": "2019-11-21T12:14:33.000-04:00",
+    "comments": null,
+    "substatus": null,
+    "date_created": "2019-11-13T22:29:15.000-04:00",
+    "date_first_printed": "2019-11-13T22:31:23.000-04:00",
+    "created_by": "receiver",
+    "application_id": null,
+    "shipping_option": {
+        "cost": 0,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "shipping_method_id": 503045,
+        "estimated_delivery_final": {
+            "date": "2020-03-17T00:00:00.000-03:00",
+            "offset": 1920
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 140.99,
+        "estimated_delivery_limit": {
+            "date": "2019-12-03T00:00:00.000-03:00",
+            "offset": 240
+        },
+        "delivery_promise": null,
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2019-11-14T00:00:00.000-03:00"
+        },
+        "estimated_delivery_time": {
+            "date": "2019-11-15T00:00:00.000-03:00",
+            "pay_before": null,
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": "2019-11-19T00:00:00.000-03:00",
+                "shipping": 24
+            },
+            "shipping": 24,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 24,
+            "type": "known_frame"
+        },
+        "name": "Retiro en Correo Argentino",
+        "id": 531405963,
+        "estimated_delivery_extended": {
+            "date": "2019-11-22T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "tags": [],
+    "sender_address": {
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "address_line": "XXXXXXX",
+        "types": [
+            "billing",
+            "default_selling_address",
+            "shipping"
+        ],
+        "agency": null,
+        "city": {
+            "id": null,
+            "name": "Belgrano"
+        },
+        "geolocation_type": "ROOFTOP",
+        "latitude": 0,
+        "municipality": {
+            "id": null,
+            "name": null
+        },
+        "location_id": null,
+        "street_name": "XXXXXXX",
+        "zip_code": "XXXXXXX",
+        "geolocation_source": null,
+        "intersection": null,
+        "street_number": "XXXXXXX",
+        "comment": "XXXXXXX",
+        "id": 1041343769,
+        "state": {
+            "id": "AR-C",
+            "name": "Capital Federal"
+        },
+        "neighborhood": {
+            "id": null,
+            "name": null
+        },
+        "geolocation_last_updated": null,
+        "longitude": 0
+    },
+    "return_tracking_number": null,
+    "site_id": "MLA",
+    "carrier_info": null,
+    "market_place": "MELI",
+    "receiver_address": {
+        "country": {
+            "name": "Argentina",
+            "id": "AR"
+        },
+        "address_line": "Roca 983",
+        "types": [
+            "agency_address"
+        ],
+        "agency": {
+            "carrier_id": 17501440,
+            "phone": "0810-777-7787",
+            "agency_id": "20099",
+            "description": "Correo Argentino",
+            "type": "agency",
+            "open_hours": "Lunes a viernes de 10 a 18 hs."
+        },
+        "city": {
+            "name": "Burzaco",
+            "id": null
+        },
+        "geolocation_type": null,
+        "latitude": -34.82436954,
+        "municipality": {
+            "name": null,
+            "id": null
+        },
+        "street_name": "Roca",
+        "zip_code": "1852",
+        "geolocation_source": null,
+        "delivery_preference": "business",
+        "intersection": null,
+        "street_number": "983",
+        "receiver_name": "Gaston Suarez",
+        "comment": null,
+        "id": null,
+        "state": {
+            "name": "Buenos Aires",
+            "id": "AR-B"
+        },
+        "neighborhood": {
+            "name": "",
+            "id": null
+        },
+        "geolocation_last_updated": null,
+        "receiver_phone": null,
+        "longitude": -58.39219188
+    },
+    "order_id": 2211382141,
+    "status": "delivered",
+    "logistic_type": "drop_off"
+}

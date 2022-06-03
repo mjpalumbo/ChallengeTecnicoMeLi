@@ -1,0 +1,5 @@
+{
+    "error": "not_found_shipping_for_order_id",
+    "message": "Not found shipping for order id: 4105198596",
+    "status": 404
+}

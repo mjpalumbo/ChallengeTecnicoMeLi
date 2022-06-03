@@ -1,0 +1,220 @@
+{
+    "substatus_history": [
+        {
+            "date": "2019-11-28T07:41:41.000-04:00",
+            "substatus": "waiting_for_withdrawal",
+            "status": "shipped"
+        },
+        {
+            "date": "2019-11-25T19:56:07.000-04:00",
+            "substatus": "authorized_by_carrier",
+            "status": "ready_to_ship"
+        },
+        {
+            "date": "2019-11-25T23:34:23.000-04:00",
+            "substatus": "in_packing_list",
+            "status": "ready_to_ship"
+        },
+        {
+            "date": "2019-11-24T16:57:33.000-04:00",
+            "substatus": "ready_to_print",
+            "status": "ready_to_ship"
+        },
+        {
+            "date": "2019-11-25T18:36:33.000-04:00",
+            "substatus": "in_hub",
+            "status": "ready_to_ship"
+        }
+    ],
+    "receiver_id": 49869710,
+    "base_cost": 319.99,
+    "status_history": {
+        "date_shipped": "2019-11-26T07:11:06.000-04:00",
+        "date_returned": null,
+        "date_delivered": "2019-12-02T12:27:43.000-04:00",
+        "date_first_visit": "2019-11-28T07:41:41.000-04:00",
+        "date_not_delivered": null,
+        "date_cancelled": null,
+        "date_handling": "2019-11-24T16:57:29.000-04:00",
+        "date_ready_to_ship": "2019-11-24T16:57:33.000-04:00"
+    },
+    "type": "forward",
+    "return_details": null,
+    "sender_id": 5020898,
+    "mode": "me2",
+    "order_cost": 4200.97,
+    "service_id": 832,
+    "shipping_items": [
+        {
+            "quantity": 1,
+            "dimensions_source": {
+                "origin": "brand_model",
+                "id": "TENTS__ALPES__STORM4"
+            },
+            "description": "Carpa 4 Personas Iglu Sobretecho + Abside Storm 210x 210x130",
+            "id": "MLA741568350",
+            "dimensions": "15.0x20.0x58.0,3680.0"
+        }
+    ],
+    "tracking_number": "300000090539120",
+    "cost_components": {
+        "loyal_discount": 0,
+        "special_discount": 0,
+        "compensation": 0,
+        "gap_discount": 0,
+        "ratio": 277.49
+    },
+    "id": 28168814612,
+    "tracking_method": "Andreani sucursal a sucursal",
+    "last_updated": "2019-12-05T16:21:34.000-04:00",
+    "comments": null,
+    "substatus": null,
+    "date_created": "2019-11-24T16:57:21.000-04:00",
+    "date_first_printed": "2019-11-24T19:45:07.000-04:00",
+    "created_by": "receiver",
+    "application_id": null,
+    "shipping_option": {
+        "cost": 0,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "shipping_method_id": 505045,
+        "estimated_delivery_final": {
+            "date": "2020-03-27T00:00:00.000-03:00",
+            "offset": 1920
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 277.49,
+        "estimated_delivery_limit": {
+            "date": "2019-12-11T00:00:00.000-03:00",
+            "offset": 240
+        },
+        "delivery_promise": null,
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2019-11-25T00:00:00.000-03:00"
+        },
+        "estimated_delivery_time": {
+            "date": "2019-11-26T00:00:00.000-03:00",
+            "pay_before": null,
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": "2019-11-27T00:00:00.000-03:00",
+                "shipping": 24
+            },
+            "shipping": 24,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 6,
+            "type": "known_frame"
+        },
+        "name": "Retiro en Andreani",
+        "id": 665255286,
+        "estimated_delivery_extended": {
+            "date": "2019-12-02T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "tags": [],
+    "sender_address": {
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "address_line": "XXXXXXX",
+        "types": [
+            "default_selling_address",
+            "shipping"
+        ],
+        "agency": null,
+        "city": {
+            "id": null,
+            "name": "capital federal"
+        },
+        "geolocation_type": "RANGE_INTERPOLATED",
+        "latitude": 0,
+        "municipality": {
+            "id": null,
+            "name": null
+        },
+        "location_id": null,
+        "street_name": "XXXXXXX",
+        "zip_code": "XXXXXXX",
+        "geolocation_source": null,
+        "intersection": null,
+        "street_number": "XXXXXXX",
+        "comment": null,
+        "id": 82442582,
+        "state": {
+            "id": "AR-C",
+            "name": "Capital Federal"
+        },
+        "neighborhood": {
+            "id": null,
+            "name": null
+        },
+        "geolocation_last_updated": null,
+        "longitude": 0
+    },
+    "return_tracking_number": null,
+    "site_id": "MLA",
+    "carrier_info": null,
+    "market_place": "MELI",
+    "receiver_address": {
+        "country": {
+            "name": "Argentina",
+            "id": "AR"
+        },
+        "address_line": "Av. Pres. Hipólito Yrigoyen 14343",
+        "types": [
+            "agency_address"
+        ],
+        "agency": {
+            "carrier_id": 17502540,
+            "phone": "",
+            "agency_id": "125",
+            "description": "Sucursal Andreani",
+            "type": "agency",
+            "open_hours": "Lunes a viernes de 8 a 18 hs. - Sábado de 8 a 13 hs."
+        },
+        "city": {
+            "name": "Burzaco",
+            "id": null
+        },
+        "geolocation_type": null,
+        "latitude": -34.8208,
+        "municipality": {
+            "name": null,
+            "id": null
+        },
+        "street_name": "Av. Pres. Hipólito Yrigoyen",
+        "zip_code": "1852",
+        "geolocation_source": null,
+        "delivery_preference": "business",
+        "intersection": null,
+        "street_number": "14343",
+        "receiver_name": "Gaston Suarez",
+        "comment": null,
+        "id": null,
+        "state": {
+            "name": "Buenos Aires",
+            "id": "AR-B"
+        },
+        "neighborhood": {
+            "name": null,
+            "id": null
+        },
+        "geolocation_last_updated": null,
+        "receiver_phone": null,
+        "longitude": -58.3954
+    },
+    "order_id": 2222932100,
+    "status": "delivered",
+    "logistic_type": "cross_docking"
+}

@@ -1,0 +1,146 @@
+{
+    "id": 5117516980,
+    "date_created": "2021-12-18T11:37:54.000-04:00",
+    "date_closed": "2021-12-18T11:37:58.000-04:00",
+    "last_updated": "2022-05-22T14:16:03.000-04:00",
+    "manufacturing_ending_date": null,
+    "comment": null,
+    "pack_id": null,
+    "pickup_id": null,
+    "order_request": {
+        "return": null,
+        "change": null
+    },
+    "fulfilled": true,
+    "mediations": [],
+    "total_amount": 1750,
+    "paid_amount": 2349.99,
+    "coupon": {
+        "id": null,
+        "amount": 0
+    },
+    "expiration_date": "2022-01-15T11:37:58.000-04:00",
+    "order_items": [
+        {
+            "item": {
+                "id": "MLA846466246",
+                "title": "Alcancia Unicornio Arco Iris Colores Niños Infantil Diseño",
+                "category_id": "MLA412585",
+                "variation_id": null,
+                "seller_custom_field": null,
+                "variation_attributes": [],
+                "warranty": "Sin garantía",
+                "condition": "new",
+                "seller_sku": null,
+                "global_price": null,
+                "net_weight": null
+            },
+            "quantity": 1,
+            "requested_quantity": {
+                "value": 1,
+                "measure": "unit"
+            },
+            "picked_quantity": null,
+            "unit_price": 1750,
+            "full_unit_price": 1750,
+            "currency_id": "ARS",
+            "manufacturing_days": null,
+            "sale_fee": 267.5,
+            "listing_type_id": "gold_special"
+        }
+    ],
+    "currency_id": "ARS",
+    "payments": [
+        {
+            "id": 18929690778,
+            "order_id": 5117516980,
+            "payer_id": 49869710,
+            "collector": {
+                "id": 519257728
+            },
+            "card_id": 8080671123,
+            "site_id": "MLA",
+            "reason": "Alcancia Unicornio Arco Iris Colores Niños Infantil Diseño ",
+            "payment_method_id": "debvisa",
+            "currency_id": "ARS",
+            "installments": 1,
+            "issuer_id": "1",
+            "atm_transfer_reference": {
+                "company_id": null,
+                "transaction_id": null
+            },
+            "coupon_id": null,
+            "activation_uri": null,
+            "operation_type": "regular_payment",
+            "payment_type": "debit_card",
+            "available_actions": [
+                "refund"
+            ],
+            "status": "approved",
+            "status_code": null,
+            "status_detail": "accredited",
+            "transaction_amount": 1750,
+            "transaction_amount_refunded": 0,
+            "taxes_amount": 0,
+            "shipping_cost": 599.99,
+            "coupon_amount": 0,
+            "overpaid_amount": 0,
+            "total_paid_amount": 2349.99,
+            "installment_amount": 2349.99,
+            "deferred_period": null,
+            "date_approved": "2021-12-18T11:37:58.000-04:00",
+            "authorization_code": "353980",
+            "transaction_order_id": null,
+            "date_created": "2021-12-18T11:37:55.000-04:00",
+            "date_last_modified": "2021-12-19T11:22:57.000-04:00"
+        }
+    ],
+    "shipping": {
+        "id": 41057274222
+    },
+    "status": "paid",
+    "status_detail": null,
+    "tags": [
+        "delivered",
+        "paid"
+    ],
+    "feedback": {
+        "buyer": null,
+        "seller": null
+    },
+    "context": {
+        "channel": "marketplace",
+        "site": "MLA",
+        "flows": []
+    },
+    "buyer": {
+        "id": 49869710,
+        "nickname": "MARIANOSOUND85",
+        "email": "mpalumb.p3qgql+2-oguytcnzvge3tamru@mail.mercadolibre.com",
+        "first_name": "Mariano",
+        "last_name": "Palumbo"
+    },
+    "seller": {
+        "id": 519257728,
+        "nickname": "MAUMAU OBJETOS2",
+        "email": "kgattic.58f2hs+2-oguytcnzvge3tamrw@mail.mercadolibre.com",
+        "first_name": "Karina Andrea",
+        "last_name": "Gatticelli",
+        "phone": {
+            "extension": "",
+            "area_code": null,
+            "number": "1121881817",
+            "verified": false
+        },
+        "alternative_phone": {
+            "area_code": "",
+            "extension": "",
+            "number": ""
+        }
+    },
+    "taxes": {
+        "amount": null,
+        "currency_id": null,
+        "id": null
+    }
+}

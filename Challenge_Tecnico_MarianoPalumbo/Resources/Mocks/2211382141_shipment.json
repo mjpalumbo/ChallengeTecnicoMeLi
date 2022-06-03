@@ -1,0 +1,187 @@
+{
+    "last_updated": "2019-11-21T12:14:33.000-04:00",
+    "substatus": null,
+    "date_created": "2019-11-13T22:29:15.000-04:00",
+    "origin": {
+        "shipping_address": {
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "address_line": "XXXXXXX",
+            "types": [
+                "billing",
+                "default_selling_address",
+                "shipping"
+            ],
+            "agency": {
+                "carrier_id": null,
+                "phone": null,
+                "agency_id": null,
+                "description": null,
+                "type": null,
+                "open_hours": null
+            },
+            "city": {
+                "id": null,
+                "name": "Belgrano"
+            },
+            "geolocation_type": "ROOFTOP",
+            "latitude": 0,
+            "address_id": 1041343769,
+            "municipality": {
+                "id": null,
+                "name": null
+            },
+            "location_id": null,
+            "street_name": "XXXXXXX",
+            "zip_code": "XXXXXXX",
+            "geolocation_source": null,
+            "intersection": null,
+            "street_number": "XXXXXXX",
+            "comment": "XXXXXXX",
+            "state": {
+                "id": "AR-C",
+                "name": "Capital Federal"
+            },
+            "neighborhood": {
+                "id": null,
+                "name": null
+            },
+            "geolocation_last_updated": null,
+            "longitude": 0
+        },
+        "type": "selling_address",
+        "sender_id": 31032610
+    },
+    "destination": {
+        "comments": null,
+        "receiver_id": 49869710,
+        "receiver_name": "Gaston Suarez",
+        "shipping_address": {
+            "country": {
+                "name": "Argentina",
+                "id": "AR"
+            },
+            "address_line": "Roca 983",
+            "types": [
+                "agency_address"
+            ],
+            "agency": {
+                "carrier_id": 17501440,
+                "phone": "0810-777-7787",
+                "agency_id": "20099",
+                "description": "Correo Argentino",
+                "type": "agency",
+                "open_hours": "Lunes a viernes de 10 a 18 hs."
+            },
+            "city": {
+                "name": "Burzaco",
+                "id": null
+            },
+            "geolocation_type": null,
+            "latitude": -34.82436954,
+            "municipality": {
+                "name": null,
+                "id": null
+            },
+            "street_name": "Roca",
+            "zip_code": "1852",
+            "geolocation_source": null,
+            "delivery_preference": "business",
+            "intersection": null,
+            "street_number": "983",
+            "comment": null,
+            "id": null,
+            "state": {
+                "name": "Buenos Aires",
+                "id": "AR-B"
+            },
+            "neighborhood": {
+                "name": "",
+                "id": null
+            },
+            "geolocation_last_updated": null,
+            "longitude": -58.39219188
+        },
+        "type": "agency",
+        "receiver_phone": null
+    },
+    "source": {
+        "site_id": "MLA",
+        "market_place": "MELI",
+        "application_id": null
+    },
+    "tags": [],
+    "declared_value": 4699,
+    "logistic": {
+        "mode": "me2",
+        "type": "drop_off",
+        "direction": "forward"
+    },
+    "lead_time": {
+        "cost": 0,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "cost_type": "free",
+        "estimated_delivery_final": {
+            "date": "2020-03-17T00:00:00.000-03:00",
+            "offset": 1920
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 140.99,
+        "estimated_delivery_limit": {
+            "date": "2019-12-03T00:00:00.000-03:00",
+            "offset": 240
+        },
+        "delivery_promise": null,
+        "shipping_method": {
+            "name": "Retiro en Correo Argentino",
+            "deliver_to": "agency",
+            "id": 503045,
+            "type": "standard"
+        },
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2019-11-14T00:00:00.000-03:00"
+        },
+        "service_id": 431,
+        "estimated_delivery_time": {
+            "date": "2019-11-15T00:00:00.000-03:00",
+            "pay_before": null,
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": "2019-11-19T00:00:00.000-03:00",
+                "shipping": 24
+            },
+            "shipping": 24,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 24,
+            "type": "known_frame"
+        },
+        "option_id": 531405963,
+        "estimated_delivery_extended": {
+            "date": "2019-11-22T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "external_reference": null,
+    "tracking_number": "1627677565EXE32501",
+    "id": 28157849814,
+    "tracking_method": "Estándar",
+    "status": "delivered",
+    "dimensions": {
+        "height": 10,
+        "width": 10,
+        "length": 14,
+        "weight": 470
+    }
+}

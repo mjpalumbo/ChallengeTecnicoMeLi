@@ -1,0 +1,189 @@
+{
+    "last_updated": "2021-08-31T13:28:15.000-04:00",
+    "substatus": null,
+    "date_created": "2021-08-30T16:39:50.000-04:00",
+    "origin": {
+        "shipping_address": {
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "address_line": "XXXXXXX",
+            "types": [
+                "default_buying_address",
+                "shipping"
+            ],
+            "agency": {
+                "carrier_id": null,
+                "phone": null,
+                "agency_id": null,
+                "description": null,
+                "type": null,
+                "open_hours": null
+            },
+            "city": {
+                "id": "TUxBQ0xBTmJjYzE4",
+                "name": "Lanús"
+            },
+            "geolocation_type": "ROOFTOP",
+            "latitude": 0,
+            "address_id": 1102965037,
+            "municipality": {
+                "id": null,
+                "name": null
+            },
+            "location_id": null,
+            "street_name": "XXXXXXX",
+            "zip_code": "XXXXXXX",
+            "geolocation_source": "google-maps",
+            "intersection": null,
+            "street_number": "XXXXXXX",
+            "comment": "XXXXXXX",
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "neighborhood": {
+                "id": null,
+                "name": null
+            },
+            "geolocation_last_updated": "2021-04-16T13:18:21Z",
+            "longitude": 0
+        },
+        "type": "selling_address",
+        "sender_id": 68702437
+    },
+    "destination": {
+        "comments": null,
+        "receiver_id": 49869710,
+        "receiver_name": "Maria Filippelli",
+        "shipping_address": {
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "address_line": "Magallanes 1521",
+            "types": [
+                "default_buying_address"
+            ],
+            "agency": {
+                "carrier_id": null,
+                "phone": null,
+                "agency_id": null,
+                "description": null,
+                "type": null,
+                "open_hours": null
+            },
+            "city": {
+                "id": "QVItQlJlbWVkaW9zIERlIEVzY2FsYWRh",
+                "name": "Remedios De Escalada"
+            },
+            "geolocation_type": "ROOFTOP",
+            "latitude": -34.72529,
+            "address_id": 1189505862,
+            "municipality": {
+                "id": null,
+                "name": null
+            },
+            "location_id": null,
+            "street_name": "Magallanes",
+            "zip_code": "1826",
+            "geolocation_source": "google-maps",
+            "delivery_preference": "residential",
+            "intersection": null,
+            "street_number": "1521",
+            "comment": "Referencia: El portero a veces no funciona. tocar el otro timbre o golpear Entre: Taborda y Tres de Febrero",
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "neighborhood": {
+                "id": null,
+                "name": null
+            },
+            "geolocation_last_updated": "2021-08-30T20:38:17Z",
+            "longitude": -58.415882
+        },
+        "type": "buying_address",
+        "receiver_phone": "XXXXXXX"
+    },
+    "source": {
+        "site_id": "MLA",
+        "market_place": "MELI",
+        "application_id": null
+    },
+    "tags": [
+        "from_kvs"
+    ],
+    "declared_value": 2319,
+    "logistic": {
+        "mode": "me2",
+        "type": "self_service",
+        "direction": "forward"
+    },
+    "lead_time": {
+        "cost": 379.99,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "cost_type": "charged",
+        "estimated_delivery_final": {
+            "date": "2021-09-28T00:00:00.000-03:00",
+            "offset": 480
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 379.99,
+        "estimated_delivery_limit": {
+            "date": "2021-09-03T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "delivery_promise": null,
+        "shipping_method": {
+            "name": "Rápido a domicilio",
+            "deliver_to": "address",
+            "id": 506445,
+            "type": "super_express"
+        },
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2021-08-31T00:00:00.000-03:00"
+        },
+        "service_id": 161097,
+        "estimated_delivery_time": {
+            "date": "2021-08-31T00:00:00.000-03:00",
+            "pay_before": "2021-08-31T12:00:00.000-03:00",
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": null,
+                "shipping": null
+            },
+            "shipping": 0,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 24,
+            "type": "known"
+        },
+        "option_id": 7,
+        "estimated_delivery_extended": {
+            "date": "2021-09-03T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "external_reference": null,
+    "tracking_number": "40805229890",
+    "id": 40805229890,
+    "tracking_method": "MAMUT SOLUCIONES Super Express",
+    "status": "delivered",
+    "dimensions": {
+        "height": 6,
+        "width": 26,
+        "length": 104,
+        "weight": 2775
+    }
+}

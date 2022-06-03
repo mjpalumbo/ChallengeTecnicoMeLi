@@ -1,0 +1,191 @@
+{
+    "substatus_history": [],
+    "receiver_id": 49869710,
+    "base_cost": 599.99,
+    "status_history": {
+        "date_shipped": "2021-12-20T14:09:01.000-04:00",
+        "date_returned": null,
+        "date_delivered": "2021-12-20T00:00:00.000-03:00",
+        "date_first_visit": "2021-12-20T16:09:47.000-04:00",
+        "date_not_delivered": null,
+        "date_cancelled": null,
+        "date_handling": "2021-12-18T11:38:08.000-04:00",
+        "date_ready_to_ship": "2021-12-18T11:38:16.000-04:00"
+    },
+    "type": "forward",
+    "return_details": null,
+    "sender_id": 519257728,
+    "mode": "me2",
+    "order_cost": 1750,
+    "service_id": 234518,
+    "shipping_items": [
+        {
+            "quantity": 1,
+            "dimensions_source": {
+                "origin": "conciliation",
+                "id": "MLA846466246__1"
+            },
+            "description": "Alcancia Unicornio Arco Iris Colores Niños Infantil Diseño",
+            "id": "MLA846466246",
+            "dimensions": "11.0x13.0x19.0,450.0"
+        }
+    ],
+    "tracking_number": "41057274222",
+    "cost_components": {
+        "loyal_discount": 0,
+        "special_discount": 0,
+        "compensation": 0,
+        "gap_discount": 0,
+        "ratio": 0
+    },
+    "id": 41057274222,
+    "tracking_method": "MAUMAU OBJETOS2 Super Express",
+    "last_updated": "2021-12-20T16:25:39.000-04:00",
+    "comments": null,
+    "substatus": null,
+    "date_created": "2021-12-18T11:37:55.000-04:00",
+    "date_first_printed": "2021-12-18T17:29:36.000-04:00",
+    "created_by": "receiver",
+    "application_id": null,
+    "shipping_option": {
+        "cost": 599.99,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "shipping_method_id": 506445,
+        "estimated_delivery_final": {
+            "date": "2022-01-19T00:00:00.000-03:00",
+            "offset": 480
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 599.99,
+        "estimated_delivery_limit": {
+            "date": "2021-12-23T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "delivery_promise": null,
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2021-12-20T00:00:00.000-03:00"
+        },
+        "estimated_delivery_time": {
+            "date": "2021-12-20T00:00:00.000-03:00",
+            "pay_before": "2021-12-19T00:00:00.000-03:00",
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": null,
+                "shipping": null
+            },
+            "shipping": 0,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 0,
+            "type": "known"
+        },
+        "name": "Rápido a domicilio",
+        "id": 1999005217,
+        "estimated_delivery_extended": {
+            "date": "2021-12-23T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "tags": [
+        "from_kvs"
+    ],
+    "sender_address": {
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "address_line": "XXXXXXX",
+        "types": [
+            "shipping"
+        ],
+        "agency": null,
+        "city": {
+            "id": "TUxBQkxBQjk1ODJa",
+            "name": "La Boca"
+        },
+        "geolocation_type": "RANGE_INTERPOLATED",
+        "latitude": 0,
+        "municipality": {
+            "id": null,
+            "name": null
+        },
+        "location_id": null,
+        "street_name": "XXXXXXX",
+        "zip_code": "XXXXXXX",
+        "geolocation_source": "google-maps",
+        "intersection": null,
+        "street_number": "XXXXXXX",
+        "comment": "XXXXXXX",
+        "id": 1123039032,
+        "state": {
+            "id": "AR-C",
+            "name": "Capital Federal"
+        },
+        "neighborhood": {
+            "id": null,
+            "name": null
+        },
+        "geolocation_last_updated": "2021-05-01T07:20:09Z",
+        "longitude": 0
+    },
+    "return_tracking_number": null,
+    "site_id": "MLA",
+    "carrier_info": null,
+    "market_place": "MELI",
+    "receiver_address": {
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "address_line": "Estanzuela Del Rey 139",
+        "types": [
+            "billing",
+            "default_selling_address",
+            "shipping"
+        ],
+        "agency": null,
+        "city": {
+            "id": null,
+            "name": "Banfield"
+        },
+        "geolocation_type": "ROOFTOP",
+        "latitude": -34.73419,
+        "municipality": {
+            "id": null,
+            "name": null
+        },
+        "location_id": null,
+        "street_name": "Estanzuela Del Rey",
+        "zip_code": "1828",
+        "geolocation_source": "google-maps",
+        "delivery_preference": "residential",
+        "intersection": null,
+        "street_number": "139",
+        "receiver_name": "MARIANO PALUMBO",
+        "comment": "Referencia: TIMBRE02 .Hay Problemas De Doble Numeracion. Guiarse Por Entrecalles (ana Acerboni Y Guidi De Franc)",
+        "id": 161817758,
+        "state": {
+            "id": "AR-B",
+            "name": "Buenos Aires"
+        },
+        "neighborhood": {
+            "id": null,
+            "name": null
+        },
+        "geolocation_last_updated": "2021-12-18T15:37:56Z",
+        "receiver_phone": "XXXXXXX",
+        "longitude": -58.420863
+    },
+    "order_id": 5117516980,
+    "status": "delivered",
+    "logistic_type": "self_service"
+}

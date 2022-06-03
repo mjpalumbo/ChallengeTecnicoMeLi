@@ -1,0 +1,190 @@
+{
+    "substatus_history": [],
+    "receiver_id": 49869710,
+    "base_cost": 379.99,
+    "status_history": {
+        "date_shipped": "2021-08-31T12:24:04.000-04:00",
+        "date_returned": null,
+        "date_delivered": "2021-08-31T00:00:00.000-03:00",
+        "date_first_visit": "2021-08-31T13:28:11.000-04:00",
+        "date_not_delivered": null,
+        "date_cancelled": null,
+        "date_handling": "2021-08-30T16:39:56.000-04:00",
+        "date_ready_to_ship": "2021-08-30T16:39:56.000-04:00"
+    },
+    "type": "forward",
+    "return_details": null,
+    "sender_id": 68702437,
+    "mode": "me2",
+    "order_cost": 2319,
+    "service_id": 161097,
+    "shipping_items": [
+        {
+            "quantity": 1,
+            "dimensions_source": {
+                "origin": "conciliation",
+                "id": "MLA707605430__1"
+            },
+            "description": "Estante Flotante Repisa  Mensula Invisible 100x20x18mm Lanús",
+            "id": "MLA707605430",
+            "dimensions": "6.0x26.0x104.0,2775.0"
+        }
+    ],
+    "tracking_number": "40805229890",
+    "cost_components": {
+        "loyal_discount": 0,
+        "special_discount": 0,
+        "compensation": 0,
+        "gap_discount": 0,
+        "ratio": 0
+    },
+    "id": 40805229890,
+    "tracking_method": "MAMUT SOLUCIONES Super Express",
+    "last_updated": "2021-08-31T13:28:15.000-04:00",
+    "comments": null,
+    "substatus": null,
+    "date_created": "2021-08-30T16:39:50.000-04:00",
+    "date_first_printed": "2021-08-30T17:32:17.000-04:00",
+    "created_by": "receiver",
+    "application_id": null,
+    "shipping_option": {
+        "cost": 379.99,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "shipping_method_id": 506445,
+        "estimated_delivery_final": {
+            "date": "2021-09-28T00:00:00.000-03:00",
+            "offset": 480
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 379.99,
+        "estimated_delivery_limit": {
+            "date": "2021-09-03T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "delivery_promise": null,
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2021-08-31T00:00:00.000-03:00"
+        },
+        "estimated_delivery_time": {
+            "date": null,
+            "pay_before": "2021-08-31T12:00:00.000-03:00",
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": null,
+                "shipping": null
+            },
+            "shipping": 0,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 24,
+            "type": "known"
+        },
+        "name": "Rápido a domicilio",
+        "id": 7,
+        "estimated_delivery_extended": {
+            "date": "2021-09-03T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "tags": [
+        "from_kvs"
+    ],
+    "sender_address": {
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "address_line": "XXXXXXX",
+        "types": [
+            "default_buying_address",
+            "shipping"
+        ],
+        "agency": null,
+        "city": {
+            "id": "TUxBQ0xBTmJjYzE4",
+            "name": "Lanús"
+        },
+        "geolocation_type": "ROOFTOP",
+        "latitude": 0,
+        "municipality": {
+            "id": null,
+            "name": null
+        },
+        "location_id": null,
+        "street_name": "XXXXXXX",
+        "zip_code": "XXXXXXX",
+        "geolocation_source": "google-maps",
+        "intersection": null,
+        "street_number": "XXXXXXX",
+        "comment": "XXXXXXX",
+        "id": 1102965037,
+        "state": {
+            "id": "AR-B",
+            "name": "Buenos Aires"
+        },
+        "neighborhood": {
+            "id": null,
+            "name": null
+        },
+        "geolocation_last_updated": "2021-04-16T13:18:21Z",
+        "longitude": 0
+    },
+    "return_tracking_number": null,
+    "site_id": "MLA",
+    "carrier_info": null,
+    "market_place": "MELI",
+    "receiver_address": {
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "address_line": "Magallanes 1521",
+        "types": [
+            "default_buying_address"
+        ],
+        "agency": null,
+        "city": {
+            "id": "QVItQlJlbWVkaW9zIERlIEVzY2FsYWRh",
+            "name": "Remedios De Escalada"
+        },
+        "geolocation_type": "ROOFTOP",
+        "latitude": -34.72529,
+        "municipality": {
+            "id": null,
+            "name": null
+        },
+        "location_id": null,
+        "street_name": "Magallanes",
+        "zip_code": "1826",
+        "geolocation_source": "google-maps",
+        "delivery_preference": "residential",
+        "intersection": null,
+        "street_number": "1521",
+        "receiver_name": "Maria Filippelli",
+        "comment": "Referencia: El portero a veces no funciona. tocar el otro timbre o golpear Entre: Taborda y Tres de Febrero",
+        "id": 1189505862,
+        "state": {
+            "id": "AR-B",
+            "name": "Buenos Aires"
+        },
+        "neighborhood": {
+            "id": null,
+            "name": null
+        },
+        "geolocation_last_updated": "2021-08-30T20:38:17Z",
+        "receiver_phone": "XXXXXXX",
+        "longitude": -58.415882
+    },
+    "order_id": 4828055354,
+    "status": "delivered",
+    "logistic_type": "self_service"
+}

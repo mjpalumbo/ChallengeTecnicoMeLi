@@ -1,0 +1,213 @@
+{
+    "substatus_history": [
+        {
+            "date": "2021-08-04T15:33:30.000-04:00",
+            "substatus": "picked_up",
+            "status": "ready_to_ship"
+        },
+        {
+            "date": "2021-08-04T20:06:46.000-04:00",
+            "substatus": "in_packing_list",
+            "status": "ready_to_ship"
+        },
+        {
+            "date": "2021-08-04T11:29:35.000-04:00",
+            "substatus": "dropped_off",
+            "status": "ready_to_ship"
+        },
+        {
+            "date": "2021-08-03T14:57:14.000-04:00",
+            "substatus": "ready_to_print",
+            "status": "ready_to_ship"
+        },
+        {
+            "date": "2021-08-04T18:11:45.000-04:00",
+            "substatus": "in_hub",
+            "status": "ready_to_ship"
+        }
+    ],
+    "receiver_id": 49869710,
+    "base_cost": 614.99,
+    "status_history": {
+        "date_shipped": "2021-08-05T00:00:00.000-03:00",
+        "date_returned": null,
+        "date_delivered": "2021-08-05T12:52:31.000-04:00",
+        "date_first_visit": "2021-08-05T12:52:31.000-04:00",
+        "date_not_delivered": null,
+        "date_cancelled": null,
+        "date_handling": "2021-08-03T14:57:13.000-04:00",
+        "date_ready_to_ship": "2021-08-03T14:57:14.000-04:00"
+    },
+    "type": "forward",
+    "return_details": null,
+    "sender_id": 133793810,
+    "mode": "me2",
+    "order_cost": 3499,
+    "service_id": 158181,
+    "shipping_items": [
+        {
+            "quantity": 1,
+            "dimensions_source": {
+                "origin": "conciliation",
+                "id": "MLA931053050__1"
+            },
+            "description": "Jgo De Sábanas Disney 1 1/2plazas Piñata 100% Orig Unicornio",
+            "id": "MLA931053050",
+            "dimensions": "6.0x20.0x28.0,1000.0"
+        }
+    ],
+    "tracking_number": "MEL00000908127432",
+    "cost_components": {
+        "loyal_discount": 0,
+        "special_discount": 0,
+        "compensation": 0,
+        "gap_discount": 0,
+        "ratio": 0
+    },
+    "id": 40747890717,
+    "tracking_method": "MEL Distribution",
+    "last_updated": "2021-08-05T12:52:33.000-04:00",
+    "comments": null,
+    "substatus": null,
+    "date_created": "2021-08-03T14:56:03.000-04:00",
+    "date_first_printed": "2021-08-04T10:39:09.000-04:00",
+    "created_by": "receiver",
+    "application_id": null,
+    "shipping_option": {
+        "cost": 614.99,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "shipping_method_id": 510545,
+        "estimated_delivery_final": {
+            "date": "2021-09-17T00:00:00.000-03:00",
+            "offset": 720
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 614.99,
+        "estimated_delivery_limit": {
+            "date": "2021-08-20T00:00:00.000-03:00",
+            "offset": 240
+        },
+        "delivery_promise": null,
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2021-08-05T00:00:00.000-03:00"
+        },
+        "estimated_delivery_time": {
+            "date": "2021-08-05T12:52:31.000-04:00",
+            "pay_before": "2021-08-04T00:00:00.000-03:00",
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": null,
+                "shipping": null
+            },
+            "shipping": 24,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 24,
+            "type": "known"
+        },
+        "name": "Express a domicilio",
+        "id": 2988614509,
+        "estimated_delivery_extended": {
+            "date": "2021-08-10T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "tags": [],
+    "sender_address": {
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "address_line": "XXXXXXX",
+        "types": [
+            "billing",
+            "default_selling_address",
+            "shipping"
+        ],
+        "agency": null,
+        "city": {
+            "id": null,
+            "name": "Longchamps"
+        },
+        "geolocation_type": "RANGE_INTERPOLATED",
+        "latitude": 0,
+        "municipality": {
+            "id": null,
+            "name": null
+        },
+        "location_id": null,
+        "street_name": "XXXXXXX",
+        "zip_code": "XXXXXXX",
+        "geolocation_source": "google-maps",
+        "intersection": null,
+        "street_number": "XXXXXXX",
+        "comment": "XXXXXXX",
+        "id": 149452814,
+        "state": {
+            "id": "AR-B",
+            "name": "Buenos Aires"
+        },
+        "neighborhood": {
+            "id": null,
+            "name": null
+        },
+        "geolocation_last_updated": "2021-05-27T16:27:18Z",
+        "longitude": 0
+    },
+    "return_tracking_number": null,
+    "site_id": "MLA",
+    "carrier_info": null,
+    "market_place": "MELI",
+    "receiver_address": {
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "address_line": "Ezeiza 2461",
+        "types": null,
+        "agency": null,
+        "city": {
+            "id": "TUxBQlZJTDE2MDBa",
+            "name": "Villa Pueyrredón"
+        },
+        "geolocation_type": "RANGE_INTERPOLATED",
+        "latitude": -34.57334,
+        "municipality": {
+            "id": null,
+            "name": null
+        },
+        "location_id": null,
+        "street_name": "Ezeiza",
+        "zip_code": "1419",
+        "geolocation_source": "google-maps",
+        "delivery_preference": "residential",
+        "intersection": null,
+        "street_number": "2461",
+        "receiver_name": "CARLA ROSSI BERGARA",
+        "comment": "Edificio 21 1E Entre: El gaucho y Bolivia",
+        "id": 1140308989,
+        "state": {
+            "id": "AR-C",
+            "name": "Capital Federal"
+        },
+        "neighborhood": {
+            "id": null,
+            "name": null
+        },
+        "geolocation_last_updated": "2020-11-05T18:48:32Z",
+        "receiver_phone": "XXXXXXX",
+        "longitude": -58.505077
+    },
+    "order_id": 4761827347,
+    "status": "delivered",
+    "logistic_type": "xd_drop_off"
+}

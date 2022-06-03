@@ -1,0 +1,186 @@
+{
+    "last_updated": "2021-08-05T12:52:33.000-04:00",
+    "substatus": null,
+    "date_created": "2021-08-03T14:56:03.000-04:00",
+    "origin": {
+        "shipping_address": {
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "address_line": "XXXXXXX",
+            "types": [
+                "billing",
+                "default_selling_address",
+                "shipping"
+            ],
+            "agency": {
+                "carrier_id": null,
+                "phone": null,
+                "agency_id": null,
+                "description": null,
+                "type": null,
+                "open_hours": null
+            },
+            "city": {
+                "id": null,
+                "name": "Longchamps"
+            },
+            "geolocation_type": "RANGE_INTERPOLATED",
+            "latitude": 0,
+            "address_id": 149452814,
+            "municipality": {
+                "id": null,
+                "name": null
+            },
+            "location_id": null,
+            "street_name": "XXXXXXX",
+            "zip_code": "XXXXXXX",
+            "geolocation_source": "google-maps",
+            "intersection": null,
+            "street_number": "XXXXXXX",
+            "comment": "XXXXXXX",
+            "state": {
+                "id": "AR-B",
+                "name": "Buenos Aires"
+            },
+            "neighborhood": {
+                "id": null,
+                "name": null
+            },
+            "geolocation_last_updated": "2021-05-27T16:27:18Z",
+            "longitude": 0
+        },
+        "type": "selling_address",
+        "sender_id": 133793810
+    },
+    "destination": {
+        "comments": null,
+        "receiver_id": 49869710,
+        "receiver_name": "CARLA ROSSI BERGARA",
+        "shipping_address": {
+            "country": {
+                "id": "AR",
+                "name": "Argentina"
+            },
+            "address_line": "Ezeiza 2461",
+            "types": null,
+            "agency": {
+                "carrier_id": null,
+                "phone": null,
+                "agency_id": null,
+                "description": null,
+                "type": null,
+                "open_hours": null
+            },
+            "city": {
+                "id": "TUxBQlZJTDE2MDBa",
+                "name": "Villa Pueyrredón"
+            },
+            "geolocation_type": "RANGE_INTERPOLATED",
+            "latitude": -34.57334,
+            "address_id": 1140308989,
+            "municipality": {
+                "id": null,
+                "name": null
+            },
+            "location_id": null,
+            "street_name": "Ezeiza",
+            "zip_code": "1419",
+            "geolocation_source": "google-maps",
+            "delivery_preference": "residential",
+            "intersection": null,
+            "street_number": "2461",
+            "comment": "Edificio 21 1E Entre: El gaucho y Bolivia",
+            "state": {
+                "id": "AR-C",
+                "name": "Capital Federal"
+            },
+            "neighborhood": {
+                "id": null,
+                "name": null
+            },
+            "geolocation_last_updated": "2020-11-05T18:48:32Z",
+            "longitude": -58.505077
+        },
+        "type": "buying_address",
+        "receiver_phone": "XXXXXXX"
+    },
+    "source": {
+        "site_id": "MLA",
+        "market_place": "MELI",
+        "application_id": null
+    },
+    "tags": [],
+    "declared_value": 3499,
+    "logistic": {
+        "mode": "me2",
+        "type": "fulfillment",
+        "direction": "forward"
+    },
+    "lead_time": {
+        "cost": 614.99,
+        "estimated_schedule_limit": {
+            "date": null
+        },
+        "cost_type": "charged",
+        "estimated_delivery_final": {
+            "date": "2021-09-17T00:00:00.000-03:00",
+            "offset": 720
+        },
+        "buffering": {
+            "date": null
+        },
+        "list_cost": 614.99,
+        "estimated_delivery_limit": {
+            "date": "2021-08-20T00:00:00.000-03:00",
+            "offset": 240
+        },
+        "delivery_promise": null,
+        "shipping_method": {
+            "name": "Express a domicilio",
+            "deliver_to": "address",
+            "id": 510545,
+            "type": "two_days"
+        },
+        "delivery_type": "estimated",
+        "estimated_handling_limit": {
+            "date": "2021-08-05T00:00:00.000-03:00"
+        },
+        "service_id": 158181,
+        "estimated_delivery_time": {
+            "date": "2021-08-05T00:00:00.000-03:00",
+            "pay_before": "2021-08-04T00:00:00.000-03:00",
+            "schedule": null,
+            "unit": "hour",
+            "offset": {
+                "date": null,
+                "shipping": null
+            },
+            "shipping": 24,
+            "time_frame": {
+                "from": null,
+                "to": null
+            },
+            "handling": 24,
+            "type": "known"
+        },
+        "option_id": 2988614509,
+        "estimated_delivery_extended": {
+            "date": "2021-08-10T00:00:00.000-03:00",
+            "offset": 72
+        },
+        "currency_id": "ARS"
+    },
+    "external_reference": null,
+    "tracking_number": "MEL00000908127432",
+    "id": 40747890717,
+    "tracking_method": "MEL Distribution",
+    "status": "delivered",
+    "dimensions": {
+        "height": 6,
+        "width": 20,
+        "length": 28,
+        "weight": 1000
+    }
+}
